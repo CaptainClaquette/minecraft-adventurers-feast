@@ -1,0 +1,12 @@
+{
+  "item": "farmersdelight:chicken_soup",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:regeneration",
+      "duration": 25,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

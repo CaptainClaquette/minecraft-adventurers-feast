@@ -1,0 +1,12 @@
+{
+  "item": "farmersdelight:pumpkin_slice",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:absorption",
+      "duration": 15,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

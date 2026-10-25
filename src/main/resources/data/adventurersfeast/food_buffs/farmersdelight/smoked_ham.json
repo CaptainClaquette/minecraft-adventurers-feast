@@ -1,0 +1,12 @@
+{
+  "item": "farmersdelight:smoked_ham",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:strength",
+      "duration": 60,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "item": "farmersdelight:kelp_roll",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:water_breathing",
+      "duration": 90,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

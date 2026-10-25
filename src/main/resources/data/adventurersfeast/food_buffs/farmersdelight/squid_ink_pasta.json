@@ -1,0 +1,19 @@
+{
+  "item": "farmersdelight:squid_ink_pasta",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:night_vision",
+      "duration": 150,
+      "amplifier": 0,
+      "particles": false
+    },
+    {
+      "type": "effect",
+      "id": "critical_strike:chance",
+      "duration": 150,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "item": "farmersdelight:nether_salad",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:fire_resistance",
+      "duration": 60,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "item": "farmersdelight:pumpkin_soup",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:night_vision",
+      "duration": 150,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "item": "farmersdelight:cabbage_rolls",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:resistance",
+      "duration": 60,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

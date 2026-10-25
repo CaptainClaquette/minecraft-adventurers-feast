@@ -1,0 +1,12 @@
+{
+  "item": "farmersdelight:beef_patty",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:strength",
+      "duration": 15,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

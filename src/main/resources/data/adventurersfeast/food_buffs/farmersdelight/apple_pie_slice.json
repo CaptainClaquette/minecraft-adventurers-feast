@@ -1,0 +1,12 @@
+{
+  "item": "farmersdelight:apple_pie_slice",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:regeneration",
+      "duration": 20,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

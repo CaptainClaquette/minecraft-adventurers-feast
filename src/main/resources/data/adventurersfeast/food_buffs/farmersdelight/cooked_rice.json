@@ -1,0 +1,12 @@
+{
+  "item": "farmersdelight:cooked_rice",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:haste",
+      "duration": 30,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

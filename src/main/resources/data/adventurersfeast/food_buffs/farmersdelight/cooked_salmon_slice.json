@@ -1,0 +1,12 @@
+{
+  "item": "farmersdelight:cooked_salmon_slice",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:dolphins_grace",
+      "duration": 30,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

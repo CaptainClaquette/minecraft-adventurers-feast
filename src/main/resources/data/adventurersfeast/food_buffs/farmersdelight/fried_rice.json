@@ -1,0 +1,19 @@
+{
+  "item": "farmersdelight:fried_rice",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:speed",
+      "duration": 90,
+      "amplifier": 0,
+      "particles": false
+    },
+    {
+      "type": "effect",
+      "id": "ranged_weapon:damage",
+      "duration": 90,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

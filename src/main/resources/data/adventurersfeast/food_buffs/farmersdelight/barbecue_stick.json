@@ -1,0 +1,19 @@
+{
+  "item": "farmersdelight:barbecue_stick",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:strength",
+      "duration": 60,
+      "amplifier": 0,
+      "particles": false
+    },
+    {
+      "type": "effect",
+      "id": "critical_strike:chance",
+      "duration": 60,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

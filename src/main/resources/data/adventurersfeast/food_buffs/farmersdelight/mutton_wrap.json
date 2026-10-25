@@ -1,0 +1,19 @@
+{
+  "item": "farmersdelight:mutton_wrap",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:jump_boost",
+      "duration": 90,
+      "amplifier": 0,
+      "particles": false
+    },
+    {
+      "type": "effect",
+      "id": "critical_strike:damage",
+      "duration": 90,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

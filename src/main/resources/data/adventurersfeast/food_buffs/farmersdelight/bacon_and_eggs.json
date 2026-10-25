@@ -1,0 +1,19 @@
+{
+  "item": "farmersdelight:bacon_and_eggs",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:regeneration",
+      "duration": 15,
+      "amplifier": 0,
+      "particles": false
+    },
+    {
+      "type": "effect",
+      "id": "critical_strike:chance",
+      "duration": 90,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "item": "farmersdelight:onion",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:resistance",
+      "duration": 15,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

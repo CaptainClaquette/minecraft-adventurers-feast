@@ -1,0 +1,26 @@
+{
+  "item": "farmersdelight:roast_chicken",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:strength",
+      "duration": 120,
+      "amplifier": 0,
+      "particles": false
+    },
+    {
+      "type": "effect",
+      "id": "minecraft:regeneration",
+      "duration": 30,
+      "amplifier": 0,
+      "particles": false
+    },
+    {
+      "type": "effect",
+      "id": "ranged_weapon:haste",
+      "duration": 120,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

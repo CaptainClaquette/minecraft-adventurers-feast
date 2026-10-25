@@ -1,0 +1,12 @@
+{
+  "item": "farmersdelight:sweet_berry_cheesecake_slice",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:absorption",
+      "duration": 90,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

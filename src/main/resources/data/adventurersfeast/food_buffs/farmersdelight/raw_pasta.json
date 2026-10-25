@@ -1,0 +1,12 @@
+{
+  "item": "farmersdelight:raw_pasta",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:haste",
+      "duration": 5,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

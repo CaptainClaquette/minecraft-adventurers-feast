@@ -1,0 +1,12 @@
+{
+  "item": "farmersdelight:cake_slice",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:regeneration",
+      "duration": 15,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

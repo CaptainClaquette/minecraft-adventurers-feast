@@ -1,0 +1,19 @@
+{
+  "item": "farmersdelight:roasted_mutton_chops",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:resistance",
+      "duration": 120,
+      "amplifier": 0,
+      "particles": false
+    },
+    {
+      "type": "effect",
+      "id": "critical_strike:damage",
+      "duration": 90,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

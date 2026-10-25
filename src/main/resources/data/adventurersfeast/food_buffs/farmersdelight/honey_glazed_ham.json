@@ -1,0 +1,26 @@
+{
+  "item": "farmersdelight:honey_glazed_ham",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:strength",
+      "duration": 180,
+      "amplifier": 0,
+      "particles": false
+    },
+    {
+      "type": "effect",
+      "id": "minecraft:resistance",
+      "duration": 90,
+      "amplifier": 0,
+      "particles": false
+    },
+    {
+      "type": "effect",
+      "id": "critical_strike:damage",
+      "duration": 180,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

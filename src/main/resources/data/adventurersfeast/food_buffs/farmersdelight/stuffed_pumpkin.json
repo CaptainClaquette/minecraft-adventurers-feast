@@ -1,0 +1,26 @@
+{
+  "item": "farmersdelight:stuffed_pumpkin",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:resistance",
+      "duration": 120,
+      "amplifier": 0,
+      "particles": false
+    },
+    {
+      "type": "effect",
+      "id": "minecraft:absorption",
+      "duration": 120,
+      "amplifier": 0,
+      "particles": false
+    },
+    {
+      "type": "effect",
+      "id": "critical_strike:chance",
+      "duration": 120,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

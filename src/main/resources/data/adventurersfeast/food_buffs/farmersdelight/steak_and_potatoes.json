@@ -1,0 +1,19 @@
+{
+  "item": "farmersdelight:steak_and_potatoes",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:strength",
+      "duration": 120,
+      "amplifier": 0,
+      "particles": false
+    },
+    {
+      "type": "effect",
+      "id": "critical_strike:damage",
+      "duration": 120,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "item": "farmersdelight:fish_stew",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:water_breathing",
+      "duration": 120,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

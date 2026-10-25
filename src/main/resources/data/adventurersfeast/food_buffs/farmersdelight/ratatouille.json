@@ -1,0 +1,12 @@
+{
+  "item": "farmersdelight:ratatouille",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:absorption",
+      "duration": 120,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

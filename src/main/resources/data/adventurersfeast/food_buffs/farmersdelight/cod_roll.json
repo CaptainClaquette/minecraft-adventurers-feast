@@ -1,0 +1,19 @@
+{
+  "item": "farmersdelight:cod_roll",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:dolphins_grace",
+      "duration": 60,
+      "amplifier": 0,
+      "particles": false
+    },
+    {
+      "type": "effect",
+      "id": "ranged_weapon:haste",
+      "duration": 60,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

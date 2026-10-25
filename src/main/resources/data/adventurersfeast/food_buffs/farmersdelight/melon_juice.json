@@ -1,0 +1,12 @@
+{
+  "item": "farmersdelight:melon_juice",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:speed",
+      "duration": 60,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

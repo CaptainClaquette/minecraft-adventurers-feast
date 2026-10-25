@@ -1,0 +1,26 @@
+{
+  "item": "farmersdelight:shepherds_pie",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:regeneration",
+      "duration": 45,
+      "amplifier": 0,
+      "particles": false
+    },
+    {
+      "type": "effect",
+      "id": "minecraft:absorption",
+      "duration": 180,
+      "amplifier": 0,
+      "particles": false
+    },
+    {
+      "type": "effect",
+      "id": "critical_strike:chance",
+      "duration": 120,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

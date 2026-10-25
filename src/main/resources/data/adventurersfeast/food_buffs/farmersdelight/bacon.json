@@ -1,0 +1,12 @@
+{
+  "item": "farmersdelight:bacon",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:speed",
+      "duration": 10,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

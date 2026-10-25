@@ -1,0 +1,12 @@
+{
+  "item": "farmersdelight:chocolate_pie_slice",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:haste",
+      "duration": 60,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "item": "farmersdelight:gleaming_salad",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:night_vision",
+      "duration": 180,
+      "amplifier": 0,
+      "particles": false
+    },
+    {
+      "type": "effect",
+      "id": "minecraft:speed",
+      "duration": 120,
+      "amplifier": 0,
+      "particles": false
+    },
+    {
+      "type": "effect",
+      "id": "ranged_weapon:damage",
+      "duration": 120,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

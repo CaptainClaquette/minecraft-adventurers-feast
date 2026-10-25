@@ -1,0 +1,19 @@
+{
+  "item": "farmersdelight:pasta_with_mutton_chop",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:resistance",
+      "duration": 120,
+      "amplifier": 0,
+      "particles": false
+    },
+    {
+      "type": "effect",
+      "id": "critical_strike:chance",
+      "duration": 120,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

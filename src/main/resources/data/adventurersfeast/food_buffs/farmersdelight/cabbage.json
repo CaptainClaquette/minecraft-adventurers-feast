@@ -1,0 +1,12 @@
+{
+  "item": "farmersdelight:cabbage",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:absorption",
+      "duration": 30,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

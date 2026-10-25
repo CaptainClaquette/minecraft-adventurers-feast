@@ -1,0 +1,19 @@
+{
+  "item": "farmersdelight:vegetable_noodles",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:haste",
+      "duration": 120,
+      "amplifier": 0,
+      "particles": false
+    },
+    {
+      "type": "effect",
+      "id": "ranged_weapon:haste",
+      "duration": 120,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "item": "farmersdelight:glow_berry_custard",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:night_vision",
+      "duration": 120,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

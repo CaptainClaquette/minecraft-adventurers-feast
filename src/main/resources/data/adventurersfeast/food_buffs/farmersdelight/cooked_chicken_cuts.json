@@ -1,0 +1,12 @@
+{
+  "item": "farmersdelight:cooked_chicken_cuts",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:speed",
+      "duration": 30,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

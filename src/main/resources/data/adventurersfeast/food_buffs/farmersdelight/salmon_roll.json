@@ -1,0 +1,19 @@
+{
+  "item": "farmersdelight:salmon_roll",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:water_breathing",
+      "duration": 60,
+      "amplifier": 0,
+      "particles": false
+    },
+    {
+      "type": "effect",
+      "id": "ranged_weapon:damage",
+      "duration": 60,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}
