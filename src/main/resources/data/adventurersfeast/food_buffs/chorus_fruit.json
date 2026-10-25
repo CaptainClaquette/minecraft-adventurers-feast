@@ -1,0 +1,12 @@
+{
+  "item": "minecraft:chorus_fruit",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:slow_falling",
+      "duration": 45,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

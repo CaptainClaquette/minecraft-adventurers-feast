@@ -1,0 +1,12 @@
+{
+  "item": "minecraft:melon_slice",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:speed",
+      "duration": 20,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

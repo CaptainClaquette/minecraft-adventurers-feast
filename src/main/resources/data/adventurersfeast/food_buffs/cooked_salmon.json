@@ -1,0 +1,12 @@
+{
+  "item": "minecraft:cooked_salmon",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:water_breathing",
+      "duration": 90,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

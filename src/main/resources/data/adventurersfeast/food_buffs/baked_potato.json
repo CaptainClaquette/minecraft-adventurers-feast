@@ -1,0 +1,12 @@
+{
+  "item": "minecraft:baked_potato",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:haste",
+      "duration": 60,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

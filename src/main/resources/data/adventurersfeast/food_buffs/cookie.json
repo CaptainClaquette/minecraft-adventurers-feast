@@ -1,0 +1,12 @@
+{
+  "item": "minecraft:cookie",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:speed",
+      "duration": 30,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

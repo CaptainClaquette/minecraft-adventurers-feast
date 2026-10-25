@@ -1,0 +1,12 @@
+{
+  "item": "minecraft:mushroom_stew",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:regeneration",
+      "duration": 10,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}

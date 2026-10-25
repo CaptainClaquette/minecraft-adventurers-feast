@@ -1,0 +1,12 @@
+{
+  "item": "minecraft:honey_bottle",
+  "buffs": [
+    {
+      "type": "effect",
+      "id": "minecraft:regeneration",
+      "duration": 8,
+      "amplifier": 0,
+      "particles": false
+    }
+  ]
+}
