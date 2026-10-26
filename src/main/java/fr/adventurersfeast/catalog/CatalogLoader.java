@@ -9,7 +9,6 @@ import net.minecraft.resources.Identifier;
 import net.minecraft.server.packs.resources.ResourceManager;
 import net.minecraft.server.packs.resources.ResourceManagerReloadListener;
 
-import net.neoforged.fml.ModList;
 import net.neoforged.fml.loading.FMLPaths;
 
 import org.slf4j.Logger;
